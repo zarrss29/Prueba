@@ -26,7 +26,7 @@ public class Main {
         // Determinamos el estatus final del alumno.
         String estatus = obtenerEstatus(promedio);
 
-        System.out.println("Promedio: " + promedio);
+        System.out.println("Promedio alumnos: " + promedio);
         System.out.println("Calificación mayor: " + mayor);
         System.out.println("Materias aprobadas: " + aprobadas);
         System.out.println("Estatus: " + estatus);
